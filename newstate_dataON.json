@@ -1,0 +1,225 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/2908165911",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/3652796598",
+        "NativeAdmob": "ca-app-pub-1547415194308958/4774306578",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "New State release",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Pre-order trailer",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Pre-registration link",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Is PUBG New State free?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Will PUBG New State run on my phone?",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "Is PUBG New State available in India?",
+        "image": "image6.jpg"
+      },
+      {
+        "title": "PUBG New State: Platforms",
+        "image": "image7.jpg"
+      },
+      {
+        "title": "Minimum Requirements",
+        "image": "image8.jpg"
+      },
+	  {
+        "title": "Gameplay",
+        "image": "image9.jpg"
+      },
+	  {
+        "title": "Weapons, Customization And More",
+        "image": "image1.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "PUBG New State release has been officially announced by PUBG Studio and Krafton. The new battle royale game is the successor to the extremely popular PUBG Mobile and will be available for Android and iOS users. We reported earlier that a PUBG Mobile sequel was in the works and that it would arrive next week. It turns out that Krafton had a surprise in store for us and dropped the PUBG: New State pre-registration trailer this week. Outside of the trailer, little more is known about what PUBG New State has in store for us. Here’s everything we know about the all-new PUBG Mobile sequel.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "The PUBG New State trailer confirms some speculation we made about the title. For starters, the game is set in the future (2051, to be precise). There’s a new map too, set in a dystopian setting. PUBG New State’s official Google Play Store listing says that is 8×8 in size. Several new vehicles have been introduced, including an ATV (all-terrain vehicle). The selection of guns is more or less the same, but we can expect the developers to add new ones as time passes. New gameplay mechanics include acquiring supplies via a drone and an expandable shield that can be deployed to block enemy fire. As expected, the graphics are significantly better than that of the original PUBG Mobile. This is all we know about PUBG New State gameplay at the moment.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Although PUBG New State has a Google Play Store listing, there appears to be no option to pre-register in India. PUBG New State pre-order link on the Apple App Store is yet to go live. Those outside India who are able to pre-order the game will receive exclusive benefits such as a limited vehicle skin. Krafton could solicit community help to beta test the game sometime in the future. It is common for developers to beta test a game rigorously before a public release.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "A massive part of the original PUBG Mobile’s success could be attributed to its free-to-play model. Unlike other mobile games’ blatantly play to win mechanics, PUBG Mobile levelled the playing field by offering cosmetic-only microtransactions. PUBG: New State’s Google Play Store page says that it will have in-game microtransactions, but the game should be free to download much like PUBG Mobile.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "PUBG New State requires devices running Android 6.0 or higher and at least 2.5GB of RAM. There is no mention of SoC requirements just yet, but those should be revealed soon. Looking at the visual fidelity that PUBG New State has to offer, it has the potential to push even the beefiest gaming smartphone to its limits. Krafton is pretty adept at optimizing its games for older/entry-level smartphones, but the experience might not be optimal. As it stands now, PUBG: New State should run properly on most modern-day smartphones, but we can’t promise the same on some older devices.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image6.jpg",
+        "text": "Due to the PUBG Mobile ban in India, it seems it will be a while before PUBG New State releases in the country. To recall, Krafton announced PUBG Mobile India game that is yet to get the green light for launch. Since there is no word yet on the PUBG Mobile India launch, it’s unclear when PUBG New State will arrive even though China-based Tencent is no longer the publisher. The Google Play Store listing is bereft of any option to pre-register for the game, but that option should pop up soon if things change in favour of Krafton. Keep an eye out on the official PUBG New State website to find out about new developments.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image7.jpg",
+        "text": "Like PUBG Mobile, PUBG New State will be limited to smartphones. The game will be available on iOS and Android. Pre-registrations are already underway on Android and you can check that out here. As a bonus, those who pre-register will get a permanent “Limited Vehicle Skin”. Pre-registrations for iOS are not yet available.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image8.jpg",
+        "text": "According to the game’s listing on the Google Play Store, the game will require Android Marshmallow 6.0 or higher. It will also require at least 2.5GB RAM. It is not yet known if there will be a ‘Lite’ version of the game for lower end devices.",
+        "isNative": "true"
+      }
+    ],
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image9.jpg",
+        "text": "PUBG New State will follow the same tried and tested battle royale formula of the original. This includes the same player count of 100 players and a shrinking blue circle. However, the game will be set in 2051, so players can expect a dash of futuristic technology. The new map is apparently called Troi and is said to be 8x8km in size, this would make it about the same size as Erangel and Miramar. The map will also offer large indoor locations such as a mall.",
+        "isNative": "true"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "Weapons seem to be as varied as ever with a host of weapons visible in the trailer. This includes SMGs, assault rifles and sniper rifles. We also got a look at a futuristic holographic display as well as a grenade in the trailer.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
