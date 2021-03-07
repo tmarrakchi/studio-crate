@@ -1,0 +1,265 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/3194126439",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/5628718086",
+        "NativeAdmob": "ca-app-pub-1547415194308958/5437146399",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "What Is A MOBA?",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Characteristics Of A MOBA",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "5v5 Combat",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Duration Of A Match",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Field Is Divided In 2 Sides",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Whichever Team Scores More Points, Wins!",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "How To Get Points",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Points Won't Count Unless Scored In Goal",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Level Up & Evolve!",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Use Unite Moves Effectively",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "You Respawn After You're Defeated",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Basic Controls",
+        "image": "image1.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "A MOBA (Multiplayer Online Battle Arena) is a category of game where players are divided into 2 teams and compete against each other. MOBAs are known for their high degree of competitiveness. See the table below for further detailed characteristics.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Online & Multiplayer : Players are usually divided into 2 teams (commonly 5v5) and compete against each other. Starts From Level 1 : All players start from level 1 and level up during the battle. The level resets after you've finished the match. Paid Items Are Cosmetics : MOBA microtransactions usually involve cosmetic items, so all players have fair chance of winning. High Affinity With eSports : Since MOBA games are competitive, they often become eSports, hold tournaments or have ranked matches.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Just like many other familiar MOBA titles, Pokemon Unite will feature 5v5 combat. Players will choose 1 main Pokemon to control.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "One match is 10 minutes long. Score counts double in the last 2 minutes of the match so you never know who is going to win until the last second!",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "The battle arena is divided into your side and the other team's side. On each side, there are 5 goals (scoring areas).",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "The goal of the game is to score more points than the enemy team. In order to score points, you'll need to gather points and move to opponent's goal.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Points can be obtained by capturing wild Pokemon or defeating your opponent's Pokemon.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "The points you get won't be added to your team's full score until you expend them in opponent's goal. Move to opponent's goal and wait until the gauge is filled. When the opponent attacks you while the gauge is filling up, the gauge will disappear and you'll have to try to score again!",
+        "isNative": "true"
+      }
+    ],
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Pokemon can level up & evolve by getting EXP points. By leveling up, they learn new moves and some Pokemon evolves. Train your Pokemon and defeat opponents!",
+        "isNative": "true"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "As Pokemon levels up, they learn finishing move called Unite Move. Unite moves have very strong effects and differs by each Pokemon.",
+        "isNative": "true"
+      }
+    ],
+    "content11": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Even if you are defeated, you can respawn from your home base by waiting for 10 seconds. You will lose part of your points as a penalty.",
+        "isNative": "true"
+      }
+    ],
+    "content12": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "If you are playing on mobile, a joy stick will appear on the left to move. Tap the attack icon on the right to use your moves.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
