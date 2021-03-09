@@ -1,0 +1,263 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/1030895895",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/9839324207",
+        "NativeAdmob": "ca-app-pub-1547415194308958/7573738034",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Learn the slide move!",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Subtle environmental hints",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Use the right thumb-stick to look ahead",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Interact and explore",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Scan Your Surroundings",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Fight Smart",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Keep A Watchful Eye On Six",
+        "image": "image3.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "Little Nightmares 2 is not combat-heavy, but it does involve occasional escape sequences where you have to flee from a chasing enemy (or several).",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "One particular maneuver that I didn't realize I could do until halfway through the game was the running slide. This is handy at several points throughout the game, sliding out of obstacles or avoiding an enemy's grasp. Indeed, it can be used a little bit like a dodge roll in some cases, letting you escape from getting hit.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "While sprinting using the X button on an Xbox controller, hit the left trigger to crouch. This will make Mono slide forwards, letting you quickly enter vents or get under cover before you can be eaten!",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Little Nightmares doesn't have a single word of dialogue, save for Mono's ability to call Six by yelling \"hey\" with the Y button. The entire story is told through brief interactions between Six, Mono, and the enemy characters, as well as the visuals throughout the game world.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "The game is dripping with telltale details and imagery that inform the narrative of the game. Instead of rushing through, take a moment to look around each room and put the pieces together of what actually happened in this world. Why are eyeball icons painted everywhere? Why do all the humans seem to wear masks? Why are there television sets everywhere?",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "I won't spoil the game with my own theories, but I suspect YouTube theorists will be agonizing over the hints in this game for months to come.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "One thing I only realized partway through the game was that I could use the right thumbstick to control the camera. You know, like in basically every other game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "This can be handy for getting an idea of hazards that may lay ahead of you. There are a couple of sections towards the end of the game, which I won't spoil, where planning your movement through a segment can be the difference maker between life and death.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "A lot of the achievements for Little Nightmares 2 revolve around exploration and interactions with the environment. For example, in the first level, you can get an achievement simply for opening the fridge in the woodsman's shack. There's also an achievement for holding Six's hand for a set period of time, which serves no other gameplay purpose besides being cute.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "One of the things that make Little Nightmares 2 replayable is hat and secret hunting. Each level has a set amount of cosmetic hats Mono can wear, selectable through the main menu. These are sometimes hidden in simple places, but a couple of hats have their own puzzle segments to solve entirely. Don't be afraid to stray from the main path to hunt these down.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Similar to the \"slide\" button, some players don't fully utilize their camera. The camera provides tremendous insight, allowing players to see ahead. Those that take the time to map out their passage and plan for danger are less likely to meet their demise when navigating tricky puzzles.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Although Little Nightmares II has its fair share of combat scenarios, gameplay strongly relies on stealth. Given Mono and Six are two tiny people in a (mostly) oversized world, fighting has to be done smart, not aggressively. Mono can utilize a variety of weapons, but his swing time has to be precise. Before engaging in combat, make sure to scan the area and map out obstacles to prevent mishaps.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Six retains autonomy through the game, often wandering off to explore Pale City on her own. While adventuring, Six can discover clues, solutions to puzzles and hidden rooms that she can lead Mono back to.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Six might have a taste for adventure, but be mindful that she will still struggle from time to time. Mono will need to jump into action to physically save Six from danger and mentally comfort her when she's scared by holding her hand. Aside from being adorable, Mono can also hold Six's hand during combat has a strategy to prevent the duo from getting separated.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
