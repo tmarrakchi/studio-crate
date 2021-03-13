@@ -1,0 +1,124 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3123472322736405",
+
+        "BannerAdmob": "ca-app-pub-3123472322736405/4113553913",
+        "InterstitialAdmob": "ca-app-pub-3123472322736405/5788957032",
+        "NativeAdmob": "ca-app-pub-3123472322736405/4284303670",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Tip 1",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Tip 2",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Tip 3",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Tip 4",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Tip 5",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This will be a complete walkthrough for Ice Man 3D on iOS and Android. Here you will find guides such as gameplay videos and walkthroughs for all levels, including our Ice Man 3D tips, cheats and solutions, all the way through to the end.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "We're steadily building a community of gamers who are trying to help each other throughout the game. In this community you can share your gaming tips, chat with other gamers and find the best gameplays to watch.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "We would be glad to have your sharing on Ice Man 3D walkthrough here.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This will be a complete walkthrough for Ice Man 3D on iOS and Android. Here you will find guides such as gameplay videos and walkthroughs for all levels, including our Ice Man 3D tips, cheats and solutions, all the way through to the end.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "We're steadily building a community of gamers who are trying to help each other throughout the game. In this community you can share your gaming tips, chat with other gamers and find the best gameplays to watch.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
