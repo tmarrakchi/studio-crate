@@ -1,0 +1,223 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "How to Install TikTok in a Country That Banned it",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "How to download and install TikTok on iPhone",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "How to download and install TikTok on Android",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "How to Use TikTok in Banned Countries",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Will TikTok Remain Banned?",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://media.lesechos.com/api/v1/images/view/5e01da69d286c259855e6496/1280x720/0602466021738-web-tete.jpg",
+        "text": "There are still ways you can access TikTok if you live in a country that’s banned the app. In addition to using a VPN to access the browser version of TikTok, you can also look for the app outside of official mobile app stores.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://cdn.netmotionsoftware.com/wp-content/uploads/2016/10/iOS-Apple.png",
+        "text": "If you have an iPhone and live in a country that has banned TikTok, you’ll need to follow these steps to get the app working on your phone:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "1.Open the App Store and click on your profile picture on the left of the screen.\n2.Select your name and email from the account settings.\n3.Choose “Country/Region” and tap the “Change Country or Region” button.\n4.Scroll down the different options and choose a country that hasn’t banned the app.\n5.Tap on “Agree” for the terms and conditions and select the payment method “None”.\n6.Enter an address in the country of your choice in the billing address section.\n7.Tap “Next” and then “Done”.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Now that your location in the App Store is updated, you should be able to find and install the TikTok app on your device.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://nitrocdn.com/yvAWAwIUuhWCbexUJQJczTYwPUYbZGXM/assets/static/optimized/rev-45cfcdf/wp-content/uploads/android-mobile-phone.png",
+        "text": "Unlike iPhone users, people who use an Android device can easily download and install TikTok on their phone by searching for the official APK file online and sideloading it onto their phone. If you use an Android phone, you can search directly from your phone’s browser for “TikTok APK” and look for the file to download.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The only drawback to using an APK file is that you’re downloading a specific version of the app. This means that, if there’s an update for TikTok, you’ll need to search for the latest APK file online to replace your current one rather than being able to update the app directly from the Play Store.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "APK files are perfectly safe to use, as long as you make sure you’re downloading them from a reputable source and the file is actually what you’re trying to install. You will need to go into your settings and turn on the security option to allow you to install third party apps.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Some reputable sources to find TikTok APK files include:\n\nApkpure.com\nAndroidAPKsBox",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.digitalmusicnews.com/wp-content/uploads/2019/12/tiktok-banned-us-navy.png",
+        "text": "Previously existing TikTok users can still access their content in banned countries. However, new users can no longer download the app through the traditional app stores on their smartphones. The only way around this is to use a VPN to access the service on your phone or computer. Some of our top VPNs include NordVPN, ExpressVPN, and CyberGhost.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you want to access TikTok via a VPN, you’ll need to factory reset your phone. This reset is required, because the app is blocked by the hardware ID on mobile devices. Factory resetting your phone will wipe your hardware ID. If you’d like more information about what a VPN is and how to use one.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.digitalmusicnews.com/wp-content/uploads/2019/12/tiktok-banned-us-navy.png",
+        "text": "It’s difficult to tell whether TikTok will remain banned in certain countries, because each situation is being directed by the complicated politics of the region. The U.S. ban could be avoided if the sale of TikTok U.S. goes through by November 12th. India is a different situation, where it looks like the ban could continue for the foreseeable future.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Other countries may decide to ban the app as well if they decide it’s a real security risk for its citizens. How long these bans stay in place, will most likely depend on the results of ongoing research and TikTok’s reaction to these concerns.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
