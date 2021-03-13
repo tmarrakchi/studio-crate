@@ -1,0 +1,179 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/6315824235",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/7437334213",
+        "NativeAdmob": "ca-app-pub-1547415194308958/9871925862",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "About",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Jobs",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Pizza Delivery",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Trash Collection",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Paramedic",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Burger Flipper",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Furniture Delivery",
+        "image": "image3.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "Wobbly Life is a lively open world physics based sandbox. Explore Wobbly Island with your friends, discover fun locations filled with minigames and dynamic toys. Be a hard working wobbly and work around town in various roles to earn cash to own properties and purchase/customise new clothes and vehicles.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "The best way to make money in Wobbly Life is to get a job. There are 7 repeatable Jobs and 1 Tutorial Job, as well as some repeatable races dotted around.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "4 of the Jobs contain a similar formula - Either to deliver an object to its destination, or to collect an object and return it to the mission start point. All missions have a timer, which is dependent on the distance between you and the destination at the start of the mission. On completion, a money bag will be dropped containing between $20-$80 depending on the job, the specific task and the time or accuracy achieved. The money bags must be taken to an ATM to deposit it into your bank account, before you can use it to purchase items.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "You must deliver 1-2 boxes of pizza to a destination. The mission is started in the Pizza Shop, and the mission ends at the destination. The target is often nearby the Pizza Shop, and this job tends to pay $20-$50 on average. The Pizza Shop has Pizza Pickup Trucks parked outside for transport of the Pizza.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "You must place 6 bags of garbage into the trash compactor at the back of the Garbage Truck. The mission starts at the Dump, and ends when the last bag of trash is compacted. You have 4-5 minutes to complete.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "You must get to the scene of an accident where an NPC on a stretcher will be waiting. You must deliver the NPC back to the hospital, ideally by utilising the room in the Ambulance to transport the NPC.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "This is the only non-delivery job currently in the game. On activation of the mission, your character is placed into the backroom of the store, where there are 5 baskets of ingredients and a BurgerMatic 2000 - a machine that takes the ingredients and combines them to make the desired burger. You must read the ticket and place the desired ingredients on the conveyor belt, and then let the BurgerMatic 2000 do its work.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://sparkchronicles.com/wp-content/uploads/2020/09/Wobbly-Life-cover.jpg",
+        "text": "Take the furniture, and transport it to the customer. You must use the Movement Vans to transport the furniture. This job pays up to $80. The destination is often 2+ minutes away.",
+        "isNative": "true"
+      }
+    ]
+  }
+}

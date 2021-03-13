@@ -1,0 +1,119 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/8612838609",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/4673593595",
+        "NativeAdmob": "ca-app-pub-1547415194308958/5795103571",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "About",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Story mode",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Local multiplayer for up to 4 players!",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "And more!",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "The best game ever made about a guy in a rabbit costume jumping through wormholes, traversing time and space on a challenging journey in search of something non-specific that will leave you with intense feelings of [INSERT FAVORITE EMOTION HERE]!",
+        "isNative": "true"
+      },
+	   {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "uper Bunny Man is a co-op physics-based platformer where you use rolling, jumping, and grabbing to overcome challenges. Beat levels, time attacks, find hidden carrots, all while evading spikes, boulders, pitfalls, and other challenges!",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Play singleplayer, or get together with a friend (local or online) for some co-op mayhem! 40 challenging levels across 4 different worlds (Forest, snow, cave, beach, and more coming soon!)",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Deathmatch : Kick your friends off cliffs, drag them onto spikes, break their necks! (Disclaimer: not recommended for fragile or strained friendships). Basketball : Choose a team, then fight to get the ball into your hoop! Carrot grab  : Strap on a jet pack and collect more carrots than the other team!",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Controller support for up to 4 players! Physics-based character and world. Mind-blowing 2.5D computer-generated graphical images. Evocative musical soundtrack, with grooves so addictive they've been banned in dance clubs across the world.Unbelievable. dance moves.",
+        "isNative": "true"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/7544434981",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/8474373277",
+        "NativeAdmob": "ca-app-pub-1547415194308958/8282801586",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Growing your Dungeon Empire",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "How is the Revenue calculated?",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Can I play Idle Dungeon Manager for free?",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "How to sync my progress?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "How to keep your account safe",
+        "image": "image1.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "So, you just started your own journey as Dungeon Manager! Congratulations! Improve your dungeon by increasing the revenue of each dungeon area, unlock new areas by finding keys and unlock dungeons by finding map pieces. Defend your village from evil monsters by defeating them Summon & collect new heroes, level them up to their maximum level and fuse them to even improve them further!",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "The revenue per minute is an estimate. In short periods of time (minutes), it may not be totally correct as each play area requires more or less time to be played. But in long periods of time (hours), the income per minute will be correct. The total revenue of a dungeon is the sum of the revenue of all areas.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Idle Dungeon Manager is completely free to play. And it will always be! Nevertheless, we will soon offer an in-game shop where players can purchase either in-game currency or permanent booster for a few bucks, which can be done through the game itself. The purchases will be handled entirely by iTunes and Google Play, in order to ensure the safety of your personal and financial information. It is very important for us to give all our players the ability to choose how they would like to play the game, therefore every area of the game is equally accessible to players as they progress, regardless of whether they invest real money into it or not. Also, we're offering optional & non-intrusive advertisement videos, that can be watched to gain some in-game resources as reward. The rewards will scale with your progress.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Soon you'll be able to sync your progress with Google Play Games / Game Center.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "It is important, under any circumstances, that you secure your User ID and note it down, as we will ask for it in the case that you contact us for any account related problems. If you cannot provide your User ID, we might not be able to help you in the case of an account loss.",
+        "isNative": "true"
+      }
+    ]
+  }
+}

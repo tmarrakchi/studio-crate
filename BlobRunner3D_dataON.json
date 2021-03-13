@@ -1,0 +1,185 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1547415194308958",
+
+        "BannerAdmob": "ca-app-pub-1547415194308958/7829497716",
+        "InterstitialAdmob": "ca-app-pub-1547415194308958/1722064996",
+        "NativeAdmob": "ca-app-pub-1547415194308958/9234078728",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Grab the goo",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Stay small, sometimes",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Hit the big hole in the mesh",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Don’t always go for 10",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "What are keys for?",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "Stay small, sometimes",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Hit the big hole in the mesh",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Don’t always go for 10",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "You’re going to want to prioritize grabbing the goo to make yourself bigger. Gems are great and if you can get some too that’s wonderful, but you want to focus on making yourself as big as possible, because that’s going to bag you a higher multiplier when you get to the end of the level.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "When there are spinning horizontal blades, sometimes it’s worth avoiding picking up the goo though. The smaller you are, the easier it is to get underneath them, and if you’ve got too much above the blade you can find yourself in real trouble. Staying low is sometimes the way to go.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Most mesh gates have a large square in them – you want to be aiming for this when you’re heading towards them. If you go through the smaller holes you’ll often get cut up too small to continue and that’s going to end your run.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "If you get to the end of a level and you’re not massive, there’s a good chance you’re not going to get all the way to the 10x marker at the end of your leap. Keep an eye on the gauge at the side of the screen – if it gets below half then aim for the highest, closest multiplier, otherwise you might end up with 1x, and that’s a waste.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "Sometimes you’ll pick up keys while you’re running. When you’ve collected three of them you’ll be able to play a pick-a-box game that will give you gems and new skins. Try and nab them if you can, but don’t put yourself at risk to pick them up. ",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "When there are spinning horizontal blades, sometimes it’s worth avoiding picking up the goo though. The smaller you are, the easier it is to get underneath them, and if you’ve got too much above the blade you can find yourself in real trouble. Staying low is sometimes the way to go.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Most mesh gates have a large square in them – you want to be aiming for this when you’re heading towards them. If you go through the smaller holes you’ll often get cut up too small to continue and that’s going to end your run.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "If you get to the end of a level and you’re not massive, there’s a good chance you’re not going to get all the way to the 10x marker at the end of your leap. Keep an eye on the gauge at the side of the screen – if it gets below half then aim for the highest, closest multiplier, otherwise you might end up with 1x, and that’s a waste.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
