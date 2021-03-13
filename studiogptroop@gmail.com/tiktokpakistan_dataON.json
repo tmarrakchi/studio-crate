@@ -4,7 +4,7 @@
 
     "AdsController": [
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "mix",
         "AdMobId": "pub-3940256099942544",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -20,19 +20,19 @@
 
     "items": [
       {
-        "title": "How to Install TikTok in a Country That Banned it",
+        "title": "Install TikTok in Banned Countries",
         "image": "image1.jpg"
       },
       {
-        "title": "How to download and install TikTok on iPhone",
+        "title": "Install TikTok on iPhone",
         "image": "image2.jpg"
       },
       {
-        "title": "How to download and install TikTok on Android",
+        "title": "Install TikTok on Android",
         "image": "image3.jpg"
       },
       {
-        "title": "How to Use TikTok in Banned Countries",
+        "title": "Use TikTok in Banned Countries",
         "image": "image4.jpg"
       },
       {
