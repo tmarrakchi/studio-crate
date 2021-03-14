@@ -1,0 +1,104 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3123472322736405",
+
+        "BannerAdmob": "ca-app-pub-3123472322736405/7186100503",
+        "InterstitialAdmob": "ca-app-pub-3123472322736405/5873018832",
+        "NativeAdmob": "ca-app-pub-3123472322736405/3246855491",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Tip 1",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Tip 2",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Tip 3",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Tip 4",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "+ Collect the crowd cowboy sniper\n+ Try to run and avoid dangerous obstacles\n+ Run and shoot em up destroy enemies by use your best gun shooting skills along the way\n+ Attack and gun to shoot down all enemies at the end of the road\n+ Run and shoot to survive in the battlegroud fatasy world and win",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "+ Collect the crowd cowboy sniper\n+ Try to run and avoid dangerous obstacles\n+ Run and shoot em up destroy enemies by use your best gun shooting skills along the way\n+ Attack and gun to shoot down all enemies at the end of the road\n+ Run and shoot to survive in the battlegroud fatasy world and win",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "+ Collect the crowd cowboy sniper\n+ Try to run and avoid dangerous obstacles\n+ Run and shoot em up destroy enemies by use your best gun shooting skills along the way\n+ Attack and gun to shoot down all enemies at the end of the road\n+ Run and shoot to survive in the battlegroud fatasy world and win",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "+ Collect the crowd cowboy sniper\n+ Try to run and avoid dangerous obstacles\n+ Run and shoot em up destroy enemies by use your best gun shooting skills along the way\n+ Attack and gun to shoot down all enemies at the end of the road\n+ Run and shoot to survive in the battlegroud fatasy world and win",
+        "isNative": "true"
+      }
+    ]
+  }
+}
