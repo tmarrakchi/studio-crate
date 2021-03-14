@@ -1,0 +1,172 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3123472322736405",
+
+        "BannerAdmob": "ca-app-pub-3123472322736405/3197919888",
+        "InterstitialAdmob": "ca-app-pub-3123472322736405/1884838219",
+        "NativeAdmob": "ca-app-pub-3123472322736405/7855156673",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      }
+    ],
+
+    "items": [
+      {
+        "title": "About",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "What are the coins for?",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "What do I do with the green goo?",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Should I go for the extra spin?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Different levels, same goal",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "What are the floating bubbles?",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Deep Clean Inc. 3D is a game about muck and grime off of a variety of different surfaces. It’s not the most complex experience in the world, but there are some challenges that might cause you problems and some concepts that need a bit more explaining.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Which is where this guide comes in. We’ve played a good chunk of the game and discovered some of the hints, tips and cheats you’re going to need to become a cleaning-stuff deity.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Whether this is your first time getting the goop out of a keyboard or you’ve already spent some time hoovering up sweets from the back seats of cars, you’re going to find something in this strategy guide that’s going to help you out.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "You can spend these on different cleaning equipment at the start of most levels. The equipment you buy doesn’t change anything about the game other than the aesthetic, so don’t worry too much about collecting the coins that the game offers you unless you’re looking for a change of style.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "On the levels where you’ve got a keyboard and a blob of green goo you’ll want to stretch the goo out over the keyboard. When you’ve covered it, press the screen again to rip it off. The goo will pull up all of the filth from the keyboard and you’ll complete the level.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Some levels just see you spinning a wheel and getting a prize. When you’ve done that, you’ll be offered the chance to spin again by watching a video. Again, unless you’re really interested in getting all of the different styles of equipment the game has to offer, it’s not really worth wasting your time.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Most of the time the goal in the game is the same – clean an item. Sometimes you’ll use one tool to do it, other times you’ll use multiple tools. In the fan levels, for example, you just need to press down on the screen to clear the murky air. For the most part you’ll be moving your tool around to clean or collect.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "These give you extra coins when you tap on them. Again, you’re going to have to watch a level in order to collect those coins. The same rules apply here as they do in the rest of the guide – if you want the different styles of equipment then by all means tap them, but if you don’t then it’s best to ignore them.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
