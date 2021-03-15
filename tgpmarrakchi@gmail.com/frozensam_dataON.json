@@ -1,0 +1,160 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Frozen Sam level 1-10 Tips",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Frozen Sam level 11-20 Tips",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Frozen Sam level 21-30 Tips",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Frozen Sam level 31-40 Tips",
+        "image": "image4.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you're stuck on Frozen Sam level 1-10 we have just the thing you need. Below you will find some written tips as well as a video walkthrough that will guide you through Frozen Sam level 1-10. Have fun and enjoy the game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you get stuck on something in level 1-10, feel free to ask for help here. Please check back regularly as we will continue to update this guide as more tips become available. Check out the walkthrough page for all the levels in Frozen Sam.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you are stuck in Frozen Sam level 11-20 you came to the right place. Here you will find a video tutorial and some written tips that will guide you through Frozen Sam level 11-20. Have fun and enjoy this great Action game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you get stuck on something in level 11-20, feel free to ask for help here. Please check back regularly as we will continue to update this guide as more tips become available. Check out the walkthrough page for all the levels in Frozen Sam.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you find yourself stuck in Frozen Sam level 21-30 we have everything you need to finish it. Here you will find a video tutorial and some written tips that will guide you through the level. Enjoy and have fun.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you get stuck on something in level 21-30, feel free to ask for help here. Please check back regularly as we will continue to update this guide as more tips become available. Check out the walkthrough page for all the levels in Frozen Sam.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you find yourself stuck in Frozen Sam level 31-40 we have everything you need to finish it. Below you will find some written tips as well as a video walkthrough that will guide you through Frozen Sam level 31-40. Enjoy and have fun.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you get stuck on something in level 31-40, feel free to ask for help here. Please check back regularly as we will continue to update this guide as more tips become available. Check out the walkthrough page for all the levels in Frozen Sam.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
