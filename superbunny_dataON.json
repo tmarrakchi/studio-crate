@@ -23,18 +23,43 @@
         "title": "About",
         "image": "image1.jpg"
       },
+	  {
+        "title": "Key features",
+        "image": "image4.jpg"
+      },
       {
         "title": "Story mode",
         "image": "image2.jpg"
       },
       {
-        "title": "Local multiplayer for up to 4 players!",
+        "title": "Multiplayer",
         "image": "image3.jpg"
       },
       {
         "title": "And more!",
         "image": "image4.jpg"
+      },
+      {
+        "title": "Does Super Bunny Man have online co-op?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Will Super Bunny Man be ported to Switch/Xbox...?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "I have a great idea for a feature!",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "When is the final release date for Super Bunny Man on Steam?",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Where can I get the latest news on Super Bunny Man?",
+        "image": "image4.jpg"
       }
+	  
     ],
 
     "content1": [
@@ -63,11 +88,25 @@
         "link_title": "",
         "setLink": "",
         "image_link": "preview/image2.jpg",
-        "text": "uper Bunny Man is a co-op physics-based platformer where you use rolling, jumping, and grabbing to overcome challenges. Beat levels, time attacks, find hidden carrots, all while evading spikes, boulders, pitfalls, and other challenges!",
+        "text": "Super Bunny Man is a physics-based couch-coop platformer where you use rolling, jumping, and grabbing to overcome challenges.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Beat levels, time attacks, find hidden carrots, all while evading spikes, boulders, pitfalls, and other challenges!",
         "isNative": "true"
       }
     ],
-    "content2": [
+	"content2": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF",
@@ -79,7 +118,49 @@
         "link_title": "",
         "setLink": "",
         "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
-        "text": "Play singleplayer, or get together with a friend (local or online) for some co-op mayhem! 40 challenging levels across 4 different worlds (Forest, snow, cave, beach, and more coming soon!)",
+        "text": "Campaign mode: 30 levels of stimulating challenges, spread across 3 amazing worlds (more coming soon)! Play them in singleplayer, or team up with a friend for 2-player cooperative (or uncooperative) mode! Every level has extra challenges in addition to completion:Time attack challenges: Prove your skills on every level with a race against the clock!Carrot challenge: A carrot placed somewhere on every level. Find it and take it with you to the wormhole! High in Vitamin-C!,
+        "isNative": "true"
+      },
+	   {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Deathmatch mode: Get together with up to 4 players in local multiplayer deathmatch mode! Kick them off cliffs, drag them onto spikes, break their necks! (Disclaimer: not recommended for fragile or strained friendships).",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Physics-based character and world: Master control of the rabbit costume to get faster and stronger!",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "And more! Controller support for up to 4 players! Mind-blowing 2.5D computer-generated graphical images. Evocative musical soundtrack, with grooves so addictive they've been banned in dance clubs across the world. Unbelievable dance moves.",
         "isNative": "true"
       }
     ],
@@ -95,7 +176,49 @@
         "link_title": "",
         "setLink": "",
         "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
-        "text": "Deathmatch : Kick your friends off cliffs, drag them onto spikes, break their necks! (Disclaimer: not recommended for fragile or strained friendships). Basketball : Choose a team, then fight to get the ball into your hoop! Carrot grab  : Strap on a jet pack and collect more carrots than the other team!",
+        "text": "50 challenging levels across 5 different worlds. Collect coins to unlock more levels! Every level has 3 coins:",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Completion coin: Get to the wormhole alive.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Carrot coin: A hidden carrot placed somewhere on every level. Find it and take it with you to the wormhole!",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Time attack coin: Race against a ghost and beat the time attack time!",
         "isNative": "true"
       }
     ],
@@ -111,9 +234,175 @@
         "link_title": "",
         "setLink": "",
         "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
-        "text": "Controller support for up to 4 players! Physics-based character and world. Mind-blowing 2.5D computer-generated graphical images. Evocative musical soundtrack, with grooves so addictive they've been banned in dance clubs across the world.Unbelievable. dance moves.",
+        "text": "Deathmatch mode: Kick your friends off cliffs, drag them onto spikes, break their necks! (Disclaimer: not recommended for fragile or strained friendships).",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Basketball mode: Choose a team, then fight to get the ball into your hoop! The team with the most points wins!",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Controller support for up to 4 players!",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Physics-based character and world.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Mind-blowing 2.5D computer-generated graphical images.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Evocative musical soundtrack, with grooves so addictive they've been banned in dance clubs across the world.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Unbelievable dance moves.",
         "isNative": "true"
       }
     ]
+	"content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Yes! As of Easter 2019, Super Bunny Man now has online co-op for Story Mode! ",
+        "isNative": "true"
+      }
+	],
+	"content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Our current plans are to get Super Bunny Man on as many platforms as possible, but this won’t be until after the final release on Steam. We want Super Bunny Man to be available to everyone, so we will do our best to get it onto consoles and other operating systems. Sorry for the wait!",
+        "isNative": "true"
+      }
+	],
+	"content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Got ideas or feedback for Super Bunny Man? Let us know on the Steam discussions page! You can find it",
+        "isNative": "true"
+      }
+	],
+	"content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "Our target for final release is some time during the second half of 2019, however this may change during development. Our target for final release date has changed several times during development as the scope of the game has increased. The feedback from players has been fantastic and we have aimed to add improvements to the game as requested by players (most notably, we invested significant development time into adding online co-op, as we had received overwhelming amounts of requests from players for this feature).",
+        "isNative": "true"
+      }
+	],
+	"content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.goclecd.fr/wp-content/uploads/buy-super-bunny-man-cd-key-pc-download-img1.jpg",
+        "text": "We post news for Super Bunny Man on Twitter! For previews of upcoming features and other exciting news",
+        "isNative": "true"
+      }
+	]
   }
 }
