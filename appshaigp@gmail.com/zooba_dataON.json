@@ -1,0 +1,194 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "BATTLE TACTICS FTW!",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Play With Different Characters to Acquire Even More “Progression” Rewards",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "The Best Items to Attach to Your Unlocked Characters",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Save Your Gems for One Important Purchase in the Shop",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Complete All Your Daily Missions on the Regular and Fill Up All Four Crate Slots Before You Log Off for the Day",
+        "image": "image1.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Once you find your place on the map for a current battle, it’s time to start collecting. Try to land in a spot where there are fewer opponents to deal with – starting off in a less populated locale should make your weapon and item collecting efforts less of a headache. As you move around the battlefield, keep an eye out for higher-tier versions of each weapon – it’s also possible to claim more powerful gear by taking out the players that currently have them equipped.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text":"Stick to the bushy areas from time to time so you can pick off enemies from afar while still hidden from their view. Avoid wading through the water, but be sure to take out anyone who’s stuck in it whenever you spot them. Whenever you come across multiple enemies in battle, lob a grenade their way and try to eliminate a few enemies in one fell swoop. And most importantly, always pull off two actions at once while in conflict. For example, lob a grenade and pull off a shotgun attack while the enemy is trying to get away from the blast radius or put up a shield then fling a grenade over it while you’re well protected from the opposition.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "As you play through various matches and nab trophies for your gameplay efforts, you’ll collect different types of rewards and make your up to new battle leagues via the Progression menu. One thing you should keep in mind is the fact that playing with a certain character helps unlock even more goodies via the “Mastery” sub-menu within the Progression tab.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "As soon as you unlock a new character, take them out onto the field for a few matches and try to acquire a few of their personal goodies. You can use this opportunity to become familiar with their sole special ability and see if that character’s playstyle is right for you. If you’re not feeling your newly unlocked animal, feel free to go back to your favorite or another new creature so you can keep unlocking new Mastery items for them.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Opening chests means you’ll get your hands on duplicates of already unlocked characters, which goes towards upgrading them. Extra coins also come your way via completed matches and unlocked chests, which you’ll need to pay for character upgrades. Another item type you’ll get from opening chests is item attachments. As you enter new battle leagues, you’ll also unlock new attachable items. The equipable items that stand out the most as the very best are the following:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text":"– Nitro Shotgun\n– Happy Trees\n– Adrenaline Shot\n– Cluster Bomb\n– Helium Canister\n– Fire Repellant\n– Jungle Shoes",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Gems come into your possession via Progression rewards. It’s also possible to claim that premium currency type simply by watching a video advertisement. One of your earliest purchases with those hard to earn gems is the “Welcome Offer,” which comes with a Gold Toolbox and even more gems for you to claim.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This item is a limited time offer though, so do your best to nab the gems needed to buy it before it disappears from the shop. Once you’ve purchased that offer, you should only put your gems towards purchasing crates and spend your coins on all the daily offers. Be sure to save a few coins for your character upgrading efforts as well.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text":"Before you take a leave of absence from Zooba for the day, do these two things – complete all of your daily missions so you can get the keys needed to claim even more free rewards. Play enough matches so you can fill up each crate slot.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text":"Set one to open via its timer, play a match or two to kill some time, open that chest once it’s ready, then earn a chest to take its place and repeat the process all over again. Don’t forget to claim your free coins from the shop’s daily deals section and make sure you fill up your “Piggy Bank” on a daily basis (no need to waste your gems on instantly opening them. Just wait for the timer attached to it to end, then claim all the awesome rewards waiting within it).",
+        "isNative": "true"
+      }
+    ]
+  }
+}
