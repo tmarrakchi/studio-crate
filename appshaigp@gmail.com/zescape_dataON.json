@@ -1,0 +1,124 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Tip 1",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Tip 2",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Tip 3",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Tip 4",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Tip 5",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Z Escape supports between four and ten players split across two teams: Between one and three Imposters, and the rest Crewmates. Crewmates win by performing simple tasks around the map, or by ejecting all the Imposters. Imposters win by killing Crewmates and evading ejections until only a few Crewmates remain. When a body is found and reported, it'll pull all players into a meeting for a discussion. Players can then vote on who they think potential Imposters are, or skip the vote if they're unsure. Here are a few general tips to help you prepare for a match.  ",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Similar to other games, watching a few rounds on Twitch and learning where certain rooms and tasks are located is a good start. Consider keeping a tab open with the map you're currently playing on until you learn the names of each room. Knowing the names of each task and where they can be completed is also useful as you can confidently recount everything you've done as the Crewmate, or lie persuasively as the Imposter. ",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Keep a mental note of what others are up to as you move around the station. For example, if you see three other players on the way to Admin on The Skeld, and then a body is reported closeby, you can share this information with the rest of the team. Similarly, if you're playing as an Imposter, knowing where others are on the map will help you remain hidden, and could even help you frame someone else for your dastardly deeds.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This may sound obvious, but it's easy to get swept up in the game and forget that you have objectives to work on.There are a mixture of long and short tasks, depending on the settings your game host has opted for. Thankfully these assignments are as simple as punching in numbers on a keypad, or dragging some leaves into a vacuum. Remain alert when observing suspicious activity, but try to keep your eyes on the prize to put pressure on the Imposters.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.digitalmusicnews.com/wp-content/uploads/2019/12/tiktok-banned-us-navy.png",
+        "text": "If an Imposter is sabotaging the station, you may have to rush to a specific room to fix the malfunctioning equipment. If the entire team ignores the O2 and Reactor events the Imposters can snag an easy win. So, follow the arrows that appear on your map promptly in these situations, and work with the rest of the crew to clear them quickly. Other sabotages include closing doors and turning off the lights. It's possible to fix the lights, but there's little that Crewmates can do about the doors until they open again, apart from hoping they're not stuck in a room with an Imposter.",
+        "isNative": "true"
+      }
+    ]
+  }
+}

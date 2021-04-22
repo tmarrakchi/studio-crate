@@ -1,0 +1,214 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Overview",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Sit Still for a Few Seconds",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Get as Close as You Can",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Mix and Match Boosters to Get Amazing Results!",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Once You Fail a Level for the First Time",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "The Special Items",
+        "image": "image1.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Royal Match even goes out of its way to make it fun to be a king’s assistant. That goal is accomplished as you help King Robert refurnish his Royal Castle and return it to its former glory. And the only way to do that is by completing a wide array of the game’s match-three puzzle stages and earning the stars needed to complete an assortment of kingdom furnishing goals. We’ve made our way through a bunch of Royal Match’s levels and made our mobile kingdom shine, so now we’re here to pass on the royal advice you need in order to succeed.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you consider yourself a veteran of the match-three puzzler genre, then you already know what this first tip is all about. You’re never on the clock during each and every stage playthrough, so it’s always best if you wait a few seconds to see what matches are available to you.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The game itself is a big help in that regard since it usually makes you aware of the types of matches that help create boosters, such as a rocket, TNT, a propeller, and a light ball. Creating easy matches with three puzzle pieces is fine and all when you’re looking to reach your current stage objective. But always be sure to keep an eye out for your own matches and the ones the game alerts you to whenever they match up four pieces or more.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The one thing you’ll quickly come to learn about Royal Match is how important coins are. Coins can be earned simply by letting the game make good use of any leftover moves you have to create boosters after completing a stage. So it’s always worth taking the appropriate steps needed to get as close to fulfilling the current stage’s objective as possible, then using a few of your moves to produce a few boosters. It’s not wise to do this when you only have one or two moves left before you reach your goal – you should put a few of your moves towards booster creations when you have 10 or more of them left.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Going that route helps create more of those boosters, which can then be left all over the board and activated once you’ve finished the current task at hand. The more boosters you place on a board, the more coins you’ll earn from the automatic matches the stage handles for you once you complete it. By the way, coins can also be earned by collecting as much of them as you can during bonus levels. You should make good use of the next bit of advice we’re going to give you if you want to nab as many coins as possible during that special stage run.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rockets, TNT barrels, propellers, and light balls are all great on their own when you match them up with a regular piece on the board. But they perform much better when you match up those boosters with a duplicate version of themselves or different boosters altogether. One of the best matches you’ll need to take advantage of is when you combine two TNT barrels – the resulting explosion from that combination works wonders since it can clear even more pieces and obstacles off the board.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Matching up any booster with a light ball creates copies of the booster itself all over the board, which leads to some major stage clearing action all in one fell swoop. Always go out of your way to combine boosters with each other to activate the best matches and clear the board of any and all obstacles that block your progression. And hey, you might even create a bunch more boosters once the board refills itself with puzzle pieces after a big explosion.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Once you unlock all of the boosters that can be selected before you take on another stage challenge, make it a habit of saving them for your next full retry. Get a lay of the land during your first stage playthrough – should you fail, you have the option of spending some coins to earn five extra moves.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "You should only take up that opportunity when you’re certain that you have what it takes to complete the current stage you’re on. When it’s clear that those extra five moves won’t get you any closer to a successful stage completion, come back with a fresh start in mind with all three of your pre-match boosters in tow. That way, you’ll have a much easier time getting past the level you’re on with the aid of the boosters you’ve placed all over it at the start of your latest retry attempt.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Eventually, you’ll come to own an essential collection of special items that can be found at the bottom of the stage. The Royal Hammer, Arrow, Cannon, and Jester Hat are the special items we’re alluding to, by the way.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Those super helpful items should only be used when you’re close to finishing the current stage goal, but you’re down to five moves or less. Save your coins by not spending them on a retry and save your pre-match boosters for a much tougher stage simply by using any of the aforementioned special items to get you out of a quick jam.",
+        "isNative": "true"
+      }
+      ]
+  }
+}
