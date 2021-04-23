@@ -1,0 +1,113 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Tip 1",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Tip 2",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Tip 3",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Tip 4",
+        "image": "image4.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Animal Transform Race is an epic fun race where you race in form of animal.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "It is not only a race where you want to simply run but also the track is design in such a way that you have to transform your animal to boost the speed otherwise animal will not move fast enough.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Following are animals abilities in race:-
+-> Cheetah will move fast in land.
+-> Elephant will destroy obstacles that come between him.
+-> Shark will move fast in water.
+-> Monkey helps you to climb walls.
+-> Eagle will fly fast in the air.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "FEATURES IN ANIMAL TRANSFORM RACE - EPIC RACE 3D:-
+-> Full Epic Race Gameplay.
+-> Perfect And Amazing Animations.
+-> Lots of Exciting Levels.
+-> Simple and Easy Game Controls."
+        "isNative": "true"
+      }
+    ]
+  }
+}
