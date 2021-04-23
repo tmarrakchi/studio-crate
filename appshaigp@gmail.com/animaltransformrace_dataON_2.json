@@ -8,8 +8,8 @@
         "AdMobId": "pub-3940256099942544",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "	ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "	ca-app-pub-3940256099942544/2247696110",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
@@ -80,12 +80,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Following are animals abilities in race:-
--> Cheetah will move fast in land.
--> Elephant will destroy obstacles that come between him.
--> Shark will move fast in water.
--> Monkey helps you to climb walls.
--> Eagle will fly fast in the air.",
+        "text": "Following are animals abilities in race:-\n-> Cheetah will move fast in land.\n-> Elephant will destroy obstacles that come between him.\n-> Shark will move fast in water.\n-> Monkey helps you to climb walls.\n-> Eagle will fly fast in the air.",
         "isNative": "true"
       }
     ],
@@ -101,11 +96,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "FEATURES IN ANIMAL TRANSFORM RACE - EPIC RACE 3D:-
--> Full Epic Race Gameplay.
--> Perfect And Amazing Animations.
--> Lots of Exciting Levels.
--> Simple and Easy Game Controls."
+        "text": "FEATURES IN ANIMAL TRANSFORM RACE - EPIC RACE 3D:-\n-> Full Epic Race Gameplay.\n-> Perfect And Amazing Animations.\n-> Lots of Exciting Levels.\n-> Simple and Easy Game Controls.",
         "isNative": "true"
       }
     ]
