@@ -1,0 +1,152 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Muscle Rush - Smash Running",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Game Highlights",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Featured Gameplay",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Graphic and Sound",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Game Reviews",
+        "image": "image1.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Muscle Rush is a fun action parkour mobile game launched by Saygames. The player plays a sturdy man in the game, collects powerful batteries in the level to accumulate strength, while enriching his own muscles, on the other hand, strengthening his own strength, breaking through various obstacles in the level, and fighting the enemy's wrist strength at the end of the level. Win the victory. As another level parkour mobile game that fascinates players, the tough guy's shape has become the biggest benchmark in the game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Muscle Rush is another new entry in the recent popular level parkour mobile game. Starting from the theme of muscular man, the content of the level is set on the strong muscles. Players can collect batteries in the level to strengthen themselves. , And at the same time collect banknotes to improve your own strength and income outside the checkpoint. Additional benefits can also be purchased with distinctive character skins such as Hulk, Batman, etc., to further enhance the content of the game and promote player retention in the game. Let the game add more fun and topicality.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Muscle Rush is a fun action parkour mobile game launched by Saygames. The player plays a sturdy man in the game, collects powerful batteries in the level to accumulate strength, while enriching his own muscles, on the other hand, strengthening his own strength, breaking through various obstacles in the level, and fighting the enemy's wrist strength at the end of the level. Win the victory. As another level parkour mobile game that fascinates players, the tough guy's shape has become the biggest benchmark in the game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Muscle Rush is another new entry in the recent popular level parkour mobile game. Starting from the theme of muscular man, the content of the level is set on the strong muscles. Players can collect batteries in the level to strengthen themselves. , And at the same time collect banknotes to improve your own strength and income outside the checkpoint. Additional benefits can also be purchased with distinctive character skins such as Hulk, Batman, etc., to further enhance the content of the game and promote player retention in the game. Let the game add more fun and topicality.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The gameplay of Muscle Rush is very simple and interesting. You can control the character to collect battery charging by sliding the screen left and right to enrich your muscles. Avoid various obstacles such as brick walls and steel walls, and use your powerful combat power to repel the blocked enemies, ride the wind and waves all the way to accumulate strength, and break through the obstacles at the bottom of the game to get higher points rewards. The seemingly simple gameplay has become a favorite of level parkour enthusiasts and players with specific roles because of the muscular muscular man's theme and the skin of sportsmen such as the Hulk. Part of the wrist battle introduced at the end of the game integrates the simulation experience gameplay, which strengthens the player's confrontation game experience and increases the fun of the game.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Muscle Rush's painting style is simple and easy to understand, and the realistic 3D stereo shape brings a bright visual effect to the player. The strong and bulging muscles, the solid color covering the whole body, and the brief dress, reveal the breath of male hormones everywhere. Let players who are obsessed with masculine charm rush for it, and let children who like cute characters and yearn for strength go crazy for it. If the Hair Challenge introduced earlier is a parkour mobile game for female players, then Muscle Rush is the favorite of male users.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "From the actual experience, the biggest difference between Muscle Rush and Hair Challenge is the gendered role, which is the difference developed in the game. Compared with the shortcomings that the hair is not carried after being extended, it is easy to be destroyed. Strong muscles are more likely to be retained until the end of the suspension, thereby gaining higher points. On the other hand, in the process of closing the bottom, Muscle Rush has also greatly reduced the two gameplay methods of hitting the wall and fighting against the wrist. The single measurement value of games such as Hair Challenge gives players a sense of homogeneity and enhances the player's gaming experience.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
