@@ -1,0 +1,200 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Overview",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Create an Aircraft",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Make it Fly Features",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Create Your Own Aircraft",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Build an Aircraft",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Complete Many Tasks",
+        "image": "image3.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The world has become so much closer and more progressive the moment airplanes were invented. It was first achieved by the Wright brothers in 1903 when they flew the first ever successful airplane. From then on, various airplanes were made and we now have commercial planes that can go anywhere around the word. Because of planes, we can go to places that we can never go to before. So, if you’re someone who enjoys airplanes, then you should play Make it Fly now.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "A game published by TapNice, this one lets you create planes from scratch based on different available elements. Here, you can be creative as you create the ultimate flying machine and as you take on different tasks. You may be asked to fly your plane for a certain length or even to collect circles. There are plenty of challenges that await you but you can also upgrade your engine, fuel and bonus! Complete many challenges today and enjoy building your own aircraft.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Airplanes are one of the best inventions ever made as they allow us to go to different countries worldwide. Most flights only take hours today as they reach an average of 880-926 km/hour. Also, they can carry hundreds of passengers which means that you can get on it with your whole family and even friends. Because of this, they’re the main transport to get to different countries especially to islands. Today, there are many types of aircrafts out there that have different seating capacities, engines, brands and purposes.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you’re fascinated by these incredible machines, then you should play Make it Fly right now! This game is unlike your typical airplane game where there’s already a built aircraft and you just need to fly it. Instead, you can build your own aircraft here from different elements available such as cardboards, and many more materials. You’re free to use your imagination to create the best aircraft you can make while taking the tasks in mind.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Here, you will be asked to complete different tasks while flying so you can earn rewards. Then, you’re able to upgrade different parts of your aircraft such as the engine, fuel and even the bonus.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Airplanes take a lot of manpower, resources and expertise to build. Get ready to show your skills and knowledge in Make it Fly!",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "There are so many aircrafts that have been made all over the world today which includes private and commercial ones. Since these are one of our primary means of transport, it’s only right to make a lot of them. But in the real world, creating one involves lots of money and effort. If you’re someone who geeks out over airplanes, then you will love playing Make it Fly! This isn’t your normal aircraft game as you can create your own aircraft from scratch.",
+        "isNative": "true"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "You can freely build your own aircraft from available elements and parts in the game. Here, you can create one based off of your imagination and according to the tasks involved. You must create one that can go over different tasks but can still be adjusted when necessary. Then, you will earn money as you complete more tasks so that you can upgrade different parts.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "By completing many levels, you can earn lots of money in Make it Fly. Here, you can upgrade different parts of your aircraft so it can go over many levels. You can improve the engine, fuel, and bonus here! By upgrading the engine, your aircraft can become more powerful and can fly higher. Then, upgrading the fuel allows you to fly for longer periods of time. Lastly, you can get more money by upgrading the bonus.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In Make it Fly, you’ll need to go over plenty of levels! Each one requires certain tasks that you need to fulfill in order to get to the next one. Here, you may be required to collect circles, fly to certain lengths, reach certain destinations, and many more. The more levels you complete, the difficult the challenges will be! Enjoy a fun time today.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
