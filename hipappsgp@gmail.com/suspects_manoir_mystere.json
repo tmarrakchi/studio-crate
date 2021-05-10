@@ -1,0 +1,328 @@
+{
+	"GuideData": {
+		"AdsController": [
+			{
+				"NetworkAds": "admob",
+				"AdMobId": "",
+				"BannerAdmob": "",
+				"InterstitialAdmob": "",
+				"NativeAdmob": "",
+				"BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+				"InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+				"NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+			}
+		],
+		"items": [
+			{
+				"title": "Introduction",
+				"image": "image1.jpg"
+			},
+			{
+				"title": "Game Highlights",
+				"image": "image2.jpg"
+			},
+			{
+				"title": "Featured Gameplay",
+				"image": "image3.jpg"
+			},
+			{
+				"title": "Graphic and Sound",
+				"image": "image4.jpg"
+			},
+			{
+				"title": "Game Reviews",
+				"image": "image1.jpg"
+			}
+		],
+		"content1": [
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Suspects Mystery Mansion is a kind of Among Us clone. It is offered by Wildlife Studios and therefore offers several friends to compete against each other. The goal: to find out who perpetrated the murders among all the guests. Each will have to fulfill a well-defined role with different missions and different objectives and it is at the end that everyone will have to vote to say, in their opinion, who the murderer was really. It will therefore be necessary to watch each of the movements of all the participants, their locations, what they say, what they do ...",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Well done, Suspects Mystery Manor does not reach the tension of a Among Us and its complexity at times. However, thanks to a mastered realization and a proven playing principle, he easily manages to change the scene and allow players to have fun.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "The players point out that it is more accessible but protest against the imbalance in the points awarded at the end of the game. These points allow you to access all the features of the game. Another thing, the waiting time for games is sometimes a bit since it takes 10 players to be together, which is enormous. Likewise, for friends, in order to join a game with friends, you have to be at least 4, you can't do it if you are two or three. This will doubtless be improved in future versions.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "In short, Suspects Mystery Manor is a very clone of a gaming system that has been very successful with Among Us. If you like the style but are looking for a simpler title with less headache then you must try it. .",
+				"isNative": "true"
+			}
+		],
+		"content2": [
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Suspects Mystery Mansion is a kind of Among Us clone. It is offered by Wildlife Studios and therefore offers several friends to compete against each other. The goal: to find out who perpetrated the murders among all the guests. Each will have to fulfill a well-defined role with different missions and different objectives and it is at the end that everyone will have to vote to say, in their opinion, who the murderer was really. It will therefore be necessary to watch each of the movements of all the participants, their locations, what they say, what they do ...",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Well done, Suspects Mystery Manor does not reach the tension of a Among Us and its complexity at times. However, thanks to a mastered realization and a proven playing principle, he easily manages to change the scene and allow players to have fun.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "The players point out that it is more accessible but protest against the imbalance in the points awarded at the end of the game. These points allow you to access all the features of the game. Another thing, the waiting time for games is sometimes a bit since it takes 10 players to be together, which is enormous. Likewise, for friends, in order to join a game with friends, you have to be at least 4, you can't do it if you are two or three. This will doubtless be improved in future versions.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "In short, Suspects Mystery Manor is a very clone of a gaming system that has been very successful with Among Us. If you like the style but are looking for a simpler title with less headache then you must try it. .",
+				"isNative": "true"
+			}
+		],
+		"content3": [
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Suspects Mystery Mansion is a kind of Among Us clone. It is offered by Wildlife Studios and therefore offers several friends to compete against each other. The goal: to find out who perpetrated the murders among all the guests. Each will have to fulfill a well-defined role with different missions and different objectives and it is at the end that everyone will have to vote to say, in their opinion, who the murderer was really. It will therefore be necessary to watch each of the movements of all the participants, their locations, what they say, what they do ...",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Well done, Suspects Mystery Manor does not reach the tension of a Among Us and its complexity at times. However, thanks to a mastered realization and a proven playing principle, he easily manages to change the scene and allow players to have fun.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "The players point out that it is more accessible but protest against the imbalance in the points awarded at the end of the game. These points allow you to access all the features of the game. Another thing, the waiting time for games is sometimes a bit since it takes 10 players to be together, which is enormous. Likewise, for friends, in order to join a game with friends, you have to be at least 4, you can't do it if you are two or three. This will doubtless be improved in future versions.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "In short, Suspects Mystery Manor is a very clone of a gaming system that has been very successful with Among Us. If you like the style but are looking for a simpler title with less headache then you must try it. .",
+				"isNative": "true"
+			}
+		],
+		"content4": [
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Suspects Mystery Mansion is a kind of Among Us clone. It is offered by Wildlife Studios and therefore offers several friends to compete against each other. The goal: to find out who perpetrated the murders among all the guests. Each will have to fulfill a well-defined role with different missions and different objectives and it is at the end that everyone will have to vote to say, in their opinion, who the murderer was really. It will therefore be necessary to watch each of the movements of all the participants, their locations, what they say, what they do ...",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Well done, Suspects Mystery Manor does not reach the tension of a Among Us and its complexity at times. However, thanks to a mastered realization and a proven playing principle, he easily manages to change the scene and allow players to have fun.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "The players point out that it is more accessible but protest against the imbalance in the points awarded at the end of the game. These points allow you to access all the features of the game. Another thing, the waiting time for games is sometimes a bit since it takes 10 players to be together, which is enormous. Likewise, for friends, in order to join a game with friends, you have to be at least 4, you can't do it if you are two or three. This will doubtless be improved in future versions.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "In short, Suspects Mystery Manor is a very clone of a gaming system that has been very successful with Among Us. If you like the style but are looking for a simpler title with less headache then you must try it. .",
+				"isNative": "true"
+			}
+		],
+		"content5": [
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Suspects Mystery Mansion is a kind of Among Us clone. It is offered by Wildlife Studios and therefore offers several friends to compete against each other. The goal: to find out who perpetrated the murders among all the guests. Each will have to fulfill a well-defined role with different missions and different objectives and it is at the end that everyone will have to vote to say, in their opinion, who the murderer was really. It will therefore be necessary to watch each of the movements of all the participants, their locations, what they say, what they do ...",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Well done, Suspects Mystery Manor does not reach the tension of a Among Us and its complexity at times. However, thanks to a mastered realization and a proven playing principle, he easily manages to change the scene and allow players to have fun.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "The players point out that it is more accessible but protest against the imbalance in the points awarded at the end of the game. These points allow you to access all the features of the game. Another thing, the waiting time for games is sometimes a bit since it takes 10 players to be together, which is enormous. Likewise, for friends, in order to join a game with friends, you have to be at least 4, you can't do it if you are two or three. This will doubtless be improved in future versions.",
+				"isNative": "true"
+			},
+			{
+				"ordered": "image_text",
+				"color": "#FFFFFF",
+				"style": "blood",
+				"gravity": "left",
+				"left": "10",
+				"text_size": "25",
+				"isLink": "false",
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "In short, Suspects Mystery Manor is a very clone of a gaming system that has been very successful with Among Us. If you like the style but are looking for a simpler title with less headache then you must try it. .",
+				"isNative": "true"
+			}
+		]
+	}
+}
